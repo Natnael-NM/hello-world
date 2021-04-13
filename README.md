@@ -2,6 +2,6 @@
 simple exercise 
 
 
-hi natty
+hi there
 
 I like python. try to use the language python
