@@ -2,6 +2,6 @@
 
 
 
-#This is the prints Hello world
+#This program prints Hello world
 
 print("hello world")
